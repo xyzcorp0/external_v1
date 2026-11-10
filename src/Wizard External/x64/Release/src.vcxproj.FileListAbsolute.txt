@@ -1,0 +1,15 @@
+E:\AWIZARD\Cheat\Wizard External\src\x64\Release\D3DCompiler_43.dll
+E:\AWIZARD\Cheat\Wizard External\src\x64\Release\d3dx9_43.dll
+E:\AWIZARD\Cheat\Wizard External\src\x64\Release\d3dx10_43.dll
+E:\AWIZARD\Cheat\Wizard External\src\x64\Release\d3dx11_43.dll
+E:\AWIZARD\Cheat\Wizard External\src\Wizard External\x64\Release\src.vcxproj.Up2Date
+E:\AWIZARD\Cheat\Wizard External Menu\Wizard External\src\x64\Release\D3DCompiler_43.dll
+E:\AWIZARD\Cheat\Wizard External Menu\Wizard External\src\x64\Release\d3dx9_43.dll
+E:\AWIZARD\Cheat\Wizard External Menu\Wizard External\src\x64\Release\d3dx10_43.dll
+E:\AWIZARD\Cheat\Wizard External Menu\Wizard External\src\x64\Release\d3dx11_43.dll
+E:\AWIZARD\Cheat\Wizard External Menu\Wizard External\src\Wizard External\x64\Release\src.vcxproj.Up2Date
+E:\AWIZARD\Cheat\Wizard External (1)\Wizard External\src\x64\Release\D3DCompiler_43.dll
+E:\AWIZARD\Cheat\Wizard External (1)\Wizard External\src\x64\Release\d3dx9_43.dll
+E:\AWIZARD\Cheat\Wizard External (1)\Wizard External\src\x64\Release\d3dx10_43.dll
+E:\AWIZARD\Cheat\Wizard External (1)\Wizard External\src\x64\Release\d3dx11_43.dll
+E:\AWIZARD\Cheat\Wizard External (1)\Wizard External\src\Wizard External\x64\Release\src.vcxproj.Up2Date
